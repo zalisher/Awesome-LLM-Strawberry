@@ -121,6 +121,10 @@ format:
   - experimental environments and datasets
 ```
 
+### Papers already covered
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+  - Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
+
 ### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
   - OpenAI
@@ -130,8 +134,7 @@ format:
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
   - Stanislas Polu, Ilya Sutskever
-- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
-  - Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
+
 - [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
   - Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
@@ -177,14 +180,25 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan
 
 ### 2024
+#### Covered
+- [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
+  - Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini
+ 
+- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
+
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
+  - Junlin Wang, Jue Wang, Ben Athiwaratkun, Ce Zhang, James Zou
+
+- [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
+  - Xuezhi Wang, Denny Zhou
+#### Not covered
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
   - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
 - [An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724)
   - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
 - [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://www.arxiv.org/abs/2408.16737)
   - Hritik Bansal, Arian Hosseini, Rishabh Agarwal, Vinh Q. Tran, Mehran Kazemi
-- [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
-  - Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini
+
 - [Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems](https://arxiv.org/abs/2412.09413)
   - Yingqian Min, Zhipeng Chen, Jinhao Jiang, Jie Chen, Jia Deng, Yiwen Hu, Yiru Tang, Jiapeng Wang, Xiaoxue Cheng, Huatong Song, Wayne Xin Zhao, Zheng Liu, Zhongyuan Wang, Ji-Rong Wen
 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
@@ -200,8 +214,7 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
 - [Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering](https://arxiv.org/abs/2411.11504)
   - Xinyan Guan, Yanjiang Liu, Xinyu Lu, Boxi Cao, Ben He, Xianpei Han, Le Sun, Jie Lou, Bowen Yu, Yaojie Lu, Hongyu Lin
 - [Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective](https://arxiv.org/abs/2412.14135)
-  - Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Bo Wang, Shimin Li, Yunhua Zhou, Qipeng Guo, Xuanjing Huang, Xipeng Qiu
-- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
+ 
   - Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
   - https://github.com/ezelikman/quiet-star
 - [Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision](https://arxiv.org/abs/2411.16579)
@@ -227,8 +240,7 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
   - Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov
-- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
-  - Junlin Wang, Jue Wang, Ben Athiwaratkun, Ce Zhang, James Zou
+
 - [Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://arxiv.org/abs/2402.03271)
   - Zhiyuan Hu, Chumin Liu, Xidong Feng, Yilun Zhao, See-Kiong Ng, Anh Tuan Luu, Junxian He, Pang Wei Koh, Bryan Hooi
 - [Advancing LLM Reasoning Generalists with Preference Trees](https://arxiv.org/abs/2404.02078)
@@ -255,8 +267,7 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett
 - [Do Large Language Models Latently Perform Multi-Hop Reasoning?](https://arxiv.org/abs/2402.16837)
   - Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel
-- [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
-  - Xuezhi Wang, Denny Zhou
+
 - [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
   - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
 - [Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2406.09136)
