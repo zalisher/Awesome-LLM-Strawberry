@@ -121,15 +121,26 @@ format:
   - experimental environments and datasets
 ```
 
-### Papers already covered
+### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
+
+#### Covered
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
   - Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
 
-### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
+#### Not needed 
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
   - OpenAI
+ 
 - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
   - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry
+ 
+- [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
+  - Scott McKinney
+ 
+#### Not covered
+
+
+
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
@@ -147,8 +158,7 @@ format:
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
 - [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318)
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
-- [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
-  - Scott McKinney
+
 
  ### Technical Report on o1 Models
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
