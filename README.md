@@ -127,22 +127,25 @@ format:
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
   - Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
 
+- [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
+  - Scott McKinney
+
+- [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
+  - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
+
 #### Not needed 
 - [Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
   - OpenAI
  
 - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
   - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry
- 
 
+- [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
+  - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown. 
  
 #### Not covered
 
-- [From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)
-  - Scott McKinney
 
-- [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
-  - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
   - Stanislas Polu, Ilya Sutskever
 
@@ -154,8 +157,7 @@ format:
   - Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike
 - [Self-critiquing models for assisting human evaluators](https://arxiv.org/pdf/2206.05802)
   - William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
-- [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
-  - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
+
 - [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318)
   - Adam Lerer, Hengyuan Hu, Jakob Foerster, Noam Brown.
 
