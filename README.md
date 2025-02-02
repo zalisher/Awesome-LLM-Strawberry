@@ -207,6 +207,9 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
 - [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
   - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
 
+- [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253) (Nothing new for verifiers, mcts)
+  - Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, and Dong Yu.
+
 #### Not covered
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
   - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
@@ -261,8 +264,7 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - Zhiyuan Hu, Chumin Liu, Xidong Feng, Yilun Zhao, See-Kiong Ng, Anh Tuan Luu, Junxian He, Pang Wei Koh, Bryan Hooi
 - [Advancing LLM Reasoning Generalists with Preference Trees](https://arxiv.org/abs/2404.02078)
   - Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan et al.
-- [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)
-  - Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, and Dong Yu.
+
 - [AlphaMath Almost Zero: Process Supervision Without Process](https://arxiv.org/abs/2405.03553)
   - Guoxin Chen, Minpeng Liao, Chengxi Li, Kai Fan.
 - [ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search](https://arxiv.org/abs/2406.03816)
