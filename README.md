@@ -203,6 +203,10 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
 
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
   - Xuezhi Wang, Denny Zhou
+ 
+- [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
+  - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
+
 #### Not covered
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
   - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
@@ -280,8 +284,6 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
 - [Do Large Language Models Latently Perform Multi-Hop Reasoning?](https://arxiv.org/abs/2402.16837)
   - Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel
 
-- [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
-  - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
 - [Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2406.09136)
   - Xuan Zhang, Chao Du, Tianyu Pang, Qian Liu, Wei Gao, Min Lin
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
@@ -328,10 +330,11 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu
 - [Don’t throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding](https://arxiv.org/abs/2309.15028)
   - Liu, Jiacheng, Andrew Cohen, Ramakanth Pasunuru, Yejin Choi, Hannaneh Hajishirzi, and Asli Celikyilmaz.
-- [Certified reasoning with language models](https://arxiv.org/pdf/2306.04031)
-  - Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman
 - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798)
   - Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou
+#### Irrelevant
+- [Certified reasoning with language models](https://arxiv.org/pdf/2306.04031)
+  - Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman
 
 ### 2022
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
@@ -346,7 +349,3 @@ Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/Dee
   - Andy L. Jones.
 - [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/pdf/2112.00114)
   - Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
-
-### 2017
-- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815v1)
-  - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.
